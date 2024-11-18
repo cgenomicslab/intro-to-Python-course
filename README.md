@@ -3,10 +3,7 @@
 * (https://bioinfo-grad.gr/en/)
   
 ### Contact
-* [Alexandros Pittis](alexandros.pittis@imbb.forth.gr)
-* [Ben Bettisworth](bbettis@ics.forth.gr)
-* [Panos Ioannidis](pioannidis@ics.forth.gr)
-* [Georgios Koutsovoulos](gkoutsov@ics.forth.gr)
+* [Alexandros Pittis](alexandros.pittis@imbb.forth.gr) * [Ben Bettisworth](bbettis@ics.forth.gr) * [Panos Ioannidis](pioannidis@ics.forth.gr) * [Georgios Koutsovoulos](gkoutsov@ics.forth.gr)
 
 ### Course description
 This course is designed to take you from a beginner to an (almost) advanced Python programmer. The repository contains all the source code, projects, problem sets, and additional resources to supplement your learning.  
