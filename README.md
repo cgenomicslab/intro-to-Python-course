@@ -12,9 +12,9 @@
 This course is designed to take you from a beginner to an (almost) advanced Python programmer. The repository contains all the source code, projects, problem sets, and additional resources to supplement your learning.  
 
 ### Objectives (2 remove or modify?)
-Upon completion the attendees will able to:
-* Design and implement basic algorithms to solve simple computational problems.
-* Use appropriate structures for optimal usage of computational resources.
+Upon completion students will able to:
+* Design and implement algorithms to solve basic computational problems.
+* Use appropriate code structures for optimal usage of computational resources.
 * Follow common practices for code readability and collaborative programming.
 * Visualize and analyze data.
 * Apply basic python programming in biological data.  
