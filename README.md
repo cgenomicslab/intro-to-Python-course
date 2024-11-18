@@ -11,13 +11,13 @@
 ### Course description
 This course is designed to take you from a beginner to an (almost) advanced Python programmer. The repository contains all the source code, projects, problem sets, and additional resources to supplement your learning.  
 
-### Objectives
-Με την επιτυχή ολοκλήρωση του μαθήματος ο φοιτητής θα μπορεί:
-* Να σχεδιάζει και να υλοποιεί αλγόριθμους που επιλύουν κοινά υπολογιστικά προβλήματα.
-* Να χρησιμοποιεί κατάλληλες δομές δεδομένες για τη βέλτιστη χρήση των πόρων του συστήματος.
-* Να χρησιμοποιεί βέλτιστες και κοινές πρακτικές για την αναγνωσιμότητα του κώδικα και τον συνεργατικό προγραμματισμό.
-* Να διεκπεραιώνει απαιτητικές αναλύσεις με μεγάλα δεδομένα που περιλαμβάνουν οπτικοποίηση και στατιστική ανάλυση.
-* Να εφαρμόζει τεχνικές προγραμματισμού σε δεδομένα από τη περιοχή της βιοπληροφορικής και βιοϊατρικής.  
+### Objectives (2 remove or modify?)
+Upon completion the attendees will able to:
+* Design and implement basic algorithms to solve simple computational problems.
+* Use appropriate structures for optimal usage of computational resources.
+* Follow common practices for code readability and collaborative programming.
+* Visualize and analyze data.
+* Apply basic python programming in biological data.  
 
 ### Planning
 * Week 1: Introduction to python, why python; anaconda installation, jupyter environment, markdown, social coding, primitive data types and operations, strings, boolean logic, slicing
@@ -85,19 +85,9 @@ The course grade will consist of 50% of the exercises and 50% of the projects
 * Lecture 9. Numpy. Notes in [jupyter notebook](notes/lesson_9.ipynb), [html](notes/lesson_9.html), [pdf](notes/lesson_9.pdf)
 
 
-### Πως βαθμολογείται μία άσκηση
-Κάθε σειρά ασκήσεων έχει 20 ερωτήσεις/ασκήσεις. Για κάθε μία παίρνετε βαθμό: από 1 μέχρι 10. Όλες οι ερωτήσεις/ασκήσεις θεωρούνται ισοδύναμες. 
+### Grading - Exercises - Projects
+TBD
 
-1. Η άσκηση βγάζει λάθος αποτέλεσμα και κάποια ψήγματα υλοποίησης έχουν γίνει.
-2. Η άσκηση βγάζει λάθος αποτέλεσμα αλλά έχει υλοποιηθεί ένα μικρό κομμάτι της λύσης.
-3. Η άσκηση βγάζει λάθος αποτέλεσμα αλλά έχει υλοποιηθεί ένα σημαντικό κομμάτι της λύσης.
-4. Η άσκηση βγάζει λάθος αποτελέσματα λόγω πολύ σημαντικών λαθών στη λογική.
-5. Η άσκηση βγάζει λάθος αποτέλεσμα λογω λαθών στη λογική
-6. Η άσκηση βγάζει λάθος αποτέλεσμα λόγω μικρών λαθών στη λογική. 
-7. H άσκηση βγάζει σωστό αποτέλεσμα, αλλά όχι για όλα τα πιθανά σενάρια/inputs. 
-8. Η άσκηση βγάζει σωστό αποτέλεσμα, αλλά η λογική σας έχει κάποιο λάθος (συμβαίνει πολλές φορές..). 
-9. Η άσκηση βγάζει σωστό αποτέλεσμα, αλλά υπάρχει μία προφανής πιο γρήγορη/σύντομη λύση.
-10. Η άσκηση είναι αλάνθαστη. Μπράβο!
 
 ### Πως στέλνονται οι ασκήσεις
 Οι ασκήσεις μπορούν να παραδοθούν στέλνοντας τις λύσεις με email στο [kantale@ics.forth.gr](mailto:kantale@ics.forth.gr) με έναν από τους παρακάτω τρόπους:
@@ -121,16 +111,8 @@ def f():
 **[Οι ασκήσεις βρίσκονται εδώ](exercises_2022.md)**
 
 * **ΠΡΟΣΟΧΗ!** Πριν κάνετε κάποια άσκηση (και πριν τη παραδόσετε), διαβάστε λίγο [αυτή τη λίστα με κοινά λάθη που κάνουν οι νέοι προγραμματιστές κυρίως στη python](common_errors.md). 
-* Επίσης καλό θα ήταν να ρίξετε μια ματιά στις [λύσεις των ασκήσεων 2018, σειρά 1η, 2η, 3η και 4η](solutions_2018.ipynb) και στις [λύσεις των ασκήσεων 2019](2019_2020/solutions_2019.ipynb)
 
-* H ημερομηνία παράδοσης των ασκήσεων 1-20 είναι: 14 Νοεμβρίου 2022, 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
-* H ημερομηνία παράδοσης των ασκήσεων 21-40 είναι: 28 Νοεμβρίου 2022, 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
-* H ημερομηνία παράδοσης των ασκήσεων 41-60 είναι: 12 Δεκεμβρίου 2022, 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
-* H ημερομηνία παράδοσης των ασκήσεων 61-80 είναι: 26 Δεκεμβρίου 2022, 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
-* H ημερομηνία παράδοσης των ασκήσεων 81-100 είναι: 31 Ιανουαρίου 2023, 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
 
 
 ### projects 
-[Το jupyter noteboook με τα projects βρίσκεται εδώ](2022_projects.ipynb)
 
-Η ημερομηνία παράδοσης είναι 28 Φεβρουαρίου 2023.
