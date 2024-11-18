@@ -67,12 +67,6 @@ Upon completion students will able to:
 ### About Data Science 
 * [Data falacies to avoid](https://www.geckoboard.com/uploads/data-fallacies-to-avoid.pdf) [source](https://www.geckoboard.com/best-practice/statistical-fallacies/) [twitter link](https://twitter.com/simongerman600/status/1294764565406855170?s=11)
 
-### Grading
-Translation (google translate):
-The course grade will consist of 50% of the exercises and 50% of the projects
-* 5 series of exercises will be given, one every 2 weeks or so. In other words, they will give a total of 100 exercises.
-* 10 projects will be given around the middle of the semester. Every student who has to work all 10. 
-
 ### Lectures 
 * Lecture 1. Notes in [jupyter notebook](notes/lesson_1.ipynb), [html](notes/lesson_1.html), [pdf](notes/lesson_1.pdf). Επίσης  οι **πρόχειρες** σημείωσεις του μαθήματος βρίσκονται σε [jupyter notebook](2022_2023/lesson_1_2022.ipynb), [html](2022_2023/lesson_1_2022.html), [pdf](2022_2023/lesson_1_2022.pdf) 
 * Lecture 2. Notes in [jupyter notebook](notes/lesson_2.ipynb), [html](notes/lesson_2.html), [pdf](notes/lesson_2.pdf). Επίσης  οι **πρόχειρες** σημείωσεις του μαθήματος βρίσκονται σε [jupyter notebook](https://gist.github.com/kantale/b8b141a5f71495d5b648c0abd8df3875)
@@ -87,32 +81,32 @@ The course grade will consist of 50% of the exercises and 50% of the projects
 
 ### Grading - Exercises - Projects
 TBD
+Google translate:
+Exercises 50% - Projects 50%
 
+*** Google Translate:***
 
-### Πως στέλνονται οι ασκήσεις
-Οι ασκήσεις μπορούν να παραδοθούν στέλνοντας τις λύσεις με email στο [kantale@ics.forth.gr](mailto:kantale@ics.forth.gr) με έναν από τους παρακάτω τρόπους:
+### How to send exercises
+Exercises can be submitted by sending the solutions by email to [kantale@ics.forth.gr](mailto:kantale@ics.forth.gr) in one of the following ways:
 
-   * Στείλτε ένα .ipynb (jupyter notebook) αρχείο ως attachment με τις λύσεις.
-   * Στείλτε ένα .py (python) αρχείο ως attachment με τις λύσεις.
-   * Στείλτε ένα link στο gist με το jupyter notebook με τις λύσεις. 
-   * Στείλτε ένα link στο gist με τον python κώδικα με τις λύσεις.
+* Send a .ipynb (jupyter notebook) file as an attachment with the solutions.
+* Send a .py (python) file as an attachment with the solutions.
+* Send a link to the gist with the jupyter notebook with the solutions.
+* Send a link to the gist with the python code with the solutions.
 
-**Σε κάθε περίπτωση βάζετε σε σχόλια τον αριθμό της άσκησης που λύνετε**. Αν στείλετε σε jupyter, βάλτε ένα σχόλιο στο ίδιο κελί όπου βρίσκεται και η υλοποίησή σας. Ιδανικά θα πρέπει να είναι κάτι σαν:
+**In any case, put the number of the exercise you are solving in the comments**. If you send to jupyter, put a comment in the same cell where your implementation is located. Ideally it should be something like:
 
 ```python
-# άσκηση 5
+# exercise 5
 def f():
-   return "hello"
+return "hello"
 ```
 
-**Μη στείλετε ασκήσεις σε φορμάτ: pdf / word / google docs / screenshots(!)**
+**Do not send exercises in the following formats: pdf / word / google docs / screenshots(!)**
 
-### Λίστα με τις ασκήσεις
-**[Οι ασκήσεις βρίσκονται εδώ](exercises_2022.md)**
+### List of exercises
+**[The exercises are here](exercises_2022.md)**
 
-* **ΠΡΟΣΟΧΗ!** Πριν κάνετε κάποια άσκηση (και πριν τη παραδόσετε), διαβάστε λίγο [αυτή τη λίστα με κοινά λάθη που κάνουν οι νέοι προγραμματιστές κυρίως στη python](common_errors.md). 
+* **WARNING!** Before doing any exercise (and before submitting it), read a little [this list of common mistakes that new programmers make, especially in python](common_errors.md).
 
-
-
-### projects 
 
